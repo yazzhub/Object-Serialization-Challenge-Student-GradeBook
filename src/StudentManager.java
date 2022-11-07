@@ -5,13 +5,4 @@
 // crud
 // load/save methods
 public class StudentManager {
-
-    public static void main(String[] args) {
-        Student student1 = new Student();
-        student1.name = "Miss Girl";
-        student1.grade = 'A';
-        student1.StudentId = 01;
-
-
-    }
 }
